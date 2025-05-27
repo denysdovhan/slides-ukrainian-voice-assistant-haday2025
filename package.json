@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "slides-topic",
+  "name": "slides-ukrainian-voice-assistant-haday2025",
   "version": "0.0.0",
-  "description": "Slides for my talk about Topic",
+  "description": "Slides for my talk about Ukrainian Voice Assistant",
   "main": "index.html",
   "scripts": {
     "start": "http-server"
